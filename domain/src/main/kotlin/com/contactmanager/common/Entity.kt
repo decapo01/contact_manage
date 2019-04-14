@@ -86,7 +86,7 @@ interface Repository<ENTITY : Entity<ID>,ID : Id<*>,CRITERIA : Criteria<ID>>{
 
   fun insert(entity: ENTITY){
 
-    println("")
+    println("will do this later")
   }
 
 }
